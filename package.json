@@ -1,0 +1,61 @@
+{
+  "type": "module",
+  "name": "@aminnairi/react-table",
+  "types": "dist/index.d.ts",
+  "description": "Streamline Your Tables: Effortless Data Control and Presentation",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aminnairi/react-table",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "bugs": {
+    "url": "https://github.com/aminnairi/react-table/issues"
+  },
+  "author": {
+    "name": "Amin NAIRI",
+    "url": "https://github.com/aminnairi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminnairi/react-table.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "table",
+    "hook",
+    "sort",
+    "filter"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && rollup --config rollup.config.ts --configPlugin typescript",
+    "types": "tsc --project tsconfig.build.json --declaration --emitDeclarationOnly",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@aminnairi/react-form": "2.0.1",
+    "@rollup/plugin-terser": "0.4.4",
+    "@rollup/plugin-typescript": "11.1.5",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@vitejs/plugin-react": "4.1.0",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "rollup": "4.1.4",
+    "saint-bernard": "3.0.1",
+    "tslib": "2.6.2",
+    "typescript": "5.2.2",
+    "vite": "4.5.0",
+    "zod": "3.22.4"
+  },
+  "peerDependencies": {
+    "react": ">=16.8",
+    "react-dom": ">=16.8"
+  }
+}
