@@ -14,9 +14,11 @@ Streamline Your Tables: Effortless Data Control and Presentation
    - [sortBy](#sortby)
    - [createSortBy](#createsortby)
    - [filters](#filters)
+- [Issue](#issue)
 - [License](#license)
 - [Contributing](#contributing)
 - [Changelog](#changelog)
+- [Code of conduct](#code-of-conduct)
 
 [Back to summary](#summary)
 
@@ -363,6 +365,12 @@ const Component = () => {
 
 [Back to summary](#summary)
 
+## Issue
+
+See [`issues`](./issues).
+
+[Back to summary](#summary)
+
 ## License
 
 See [`LICENSE`](./LICENSE).
@@ -378,5 +386,11 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 ## Changelog
 
 See [`CHANGELOG.md`](./CHANGELOG.md).
+
+[Back to summary](#summary)
+
+## Code of conduct
+
+See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
 [Back to summary](#summary)
