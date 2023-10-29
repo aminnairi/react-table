@@ -367,11 +367,15 @@ const Component = () => {
 
 ## Issue
 
+The "Issue" section serves as a link or reference to a list of problems, bugs, or tasks that need to be addressed in the project. It typically includes details about what issues exist and what needs to be resolved. This section can help users or contributors quickly navigate to a list of known problems and track progress in addressing them.
+
 See [`issues`](./issues).
 
 [Back to summary](#summary)
 
 ## License
+
+The "License" section provides information about the legal terms and conditions under which the project is distributed and used. It specifies how the project's code can be used, modified, and shared. It's crucial to include this section to make it clear to users and contributors what rights and restrictions they have when working with or using the project.
 
 See [`LICENSE`](./LICENSE).
 
@@ -379,17 +383,23 @@ See [`LICENSE`](./LICENSE).
 
 ## Contributing
 
+The "Contributing" section outlines guidelines and instructions for individuals who want to contribute to the project. It may include details on how to report issues, how to submit code changes, coding standards, and best practices for contributing effectively. This section helps potential contributors understand the project's workflow and how to get involved.
+
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 [Back to summary](#summary)
 
 ## Changelog
 
+The "Changelog" section is a historical record of changes made to the project. It typically includes details about each release, such as new features, bug fixes, and other updates. Users and contributors use the changelog to track the project's progress, understand what's new, and assess the impact of changes on their use of the project.
+
 See [`CHANGELOG.md`](./CHANGELOG.md).
 
 [Back to summary](#summary)
 
 ## Code of conduct
+
+The "Code of Conduct" section defines the expected behavior and interaction standards for all project participants, including contributors, maintainers, and users. It sets a code of ethics and behavior guidelines to ensure a positive and inclusive environment. This section is essential for fostering a welcoming and respectful community around the project.
 
 See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
